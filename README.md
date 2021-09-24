@@ -68,3 +68,5 @@
     <img src="https://komarev.com/ghpvc/?username=samueluy">
 </a>
 <a href="https://github.com/samueluy?tab=followers"><img src="https://img.shields.io/github/followers/samueluy?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<! -- README.md design from https://github.com/SubhamRaoniar28 -->
