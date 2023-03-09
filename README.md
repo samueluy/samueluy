@@ -1,7 +1,7 @@
 <a href="#"> <p align="center"> <img width="50%" height="auto" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79332/coding-clipart-md.png" height="175px"/> </p> </a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sam</h1>
-<h3 align="center">Aspiring Software Developer from <p> De La Salle University 💚🏹.</h3>
+<h3 align="center">Aspiring Blockchain Developer from <p> De La Salle University 💚🏹.</h3>
 
 
 ## 👈 About Me
