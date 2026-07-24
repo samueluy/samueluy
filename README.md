@@ -1,41 +1,50 @@
 # Hi, I'm Sam 👋
 
-I’m a **Data Engineer at Exist Software Labs** building practical software across **automation, AI-enabled workflows, and creator systems**.
+**Data Engineer at Exist Software Labs** with 2+ years of experience building **compliance-grade data pipelines, analytics workflows, and production AI retrieval systems**.
 
-Outside of work, I’m growing a creator brand around tech, apps, and making things that are actually useful — while figuring out where **AI engineering, product building, and content creation** intersect.
+My core background is in **Azure-based ETL, orchestration, SQL optimization, and RAG-style search systems**. Outside of work, I build apps, experiment with AI-enabled products, and document what I learn through content.
 
-## What I do
-- Build internal tools, scripts, and app ideas
-- Explore AI-powered workflows and automation systems
-- Create educational and creator-adjacent tech projects
-- Share what I’m learning through content and experiments
+## What I work on
+- Data engineering and analytics pipelines
+- Workflow orchestration and backend automation
+- AI retrieval systems and search workflows
+- Product experiments across mobile, web, and creator tools
 
-## What I’m focused on right now
-- Growing **[YouTube](https://youtube.com/samueluy)** and **[TikTok](https://www.tiktok.com/@samueluyyt)**
-- Shipping more polished apps instead of just prototypes
-- Transitioning toward more **AI-focused product and engineering work**
-- Building leverage through content, software, and systems
+## Selected experience highlights
+- Reduced daily reporting work from **4 hours to 15 minutes** through automation
+- Built multi-channel data consolidation pipelines processing **500K+ transactions daily**
+- Improved reporting performance by **94%** through SQL and Power BI optimization
+- Refactored preprocessing pipelines with **Dask**, reducing runtime by **90%**
+- Built a production **RAG pipeline** handling **1,000+ daily queries** using **LangGraph, AWS Bedrock, PostgreSQL, and pgvector**
+- Implemented hybrid retrieval using **BM25 + vector search** for semantic candidate search
 
-## Selected work
+## Public projects
 - **[sql-basics-2025](https://github.com/samueluy/sql-basics-2025)** — companion repo for my SQL tutorial content
 - **[PartitioningScript_Partman](https://github.com/samueluy/PartitioningScript_Partman)** — PostgreSQL partitioning utility
 - **[mimiyuuuH2O](https://github.com/samueluy/mimiyuuuH2O)** — a fun Discord reminder bot project
 
-## Areas I like working in
-`Python` `SQL` `PostgreSQL` `JavaScript/TypeScript` `APIs` `Automation` `Git` `Linux`
+## Certifications
+- Microsoft Certified: **Azure Data Engineer Associate (DP-203)**
+- Microsoft Certified: **Azure Data Analyst Associate (DP-700)**
+- **Apache Airflow 3 Fundamentals** — Astronomer
+- Informatica Cloud Data Integration Developer
+- Boomi Associate Integration Developer
 
-## A few current themes behind the scenes
-- creator tools
-- mobile/web app experiments
-- bots and workflow automation
-- data/backend systems
-- AI-adjacent product ideas
+## Tools and technologies
+`Python` `SQL` `Azure` `ADF` `Synapse` `Airflow` `PostgreSQL` `pgvector` `Power BI` `Dask` `Docker` `Linux`
+
+## Also building outside work
+I’m also interested in:
+- AI-enabled apps
+- creator systems and educational content
+- offshore AI / data opportunities
+- shipping practical products people actually use
 
 ## Find me online
+- LinkedIn: https://www.linkedin.com/in/samueluy/
 - YouTube: https://youtube.com/samueluy
 - TikTok: https://www.tiktok.com/@samueluyyt
-- LinkedIn: https://www.linkedin.com/in/samueluy/
 
 ---
 
-> I like building useful things, explaining what I learn, and turning messy ideas into working systems.
+> Strong in data systems, increasingly focused on AI workflows, and always trying to turn ideas into shipped products.
