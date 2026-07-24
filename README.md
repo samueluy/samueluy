@@ -1,52 +1,66 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Samuel%20Uy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creator-builder%20who%20ships%20apps,%20systems,%20and%20tech%20content&descAlignY=58&descSize=16" width="100%" />
+</div>
+
 # Hi, I'm Sam 👋
 
-**Data Engineer at Exist Software Labs** with 2+ years of experience building **compliance-grade data pipelines, analytics workflows, and production AI retrieval systems**.
+<p>
+I’m a <b>creator-builder</b> with a strong data engineering backbone — currently working at <b>Exist Software Labs</b>, building data systems, automation workflows, and AI retrieval pipelines.<br/><br/>
+Outside of work, I love making things that are useful, shippable, and interesting: <b>apps</b>, <b>creator tools</b>, <b>AI-enabled workflows</b>, and <b>educational content</b>.
+</p>
 
-My core background is in **Azure-based ETL, orchestration, SQL optimization, and RAG-style search systems**. Outside of work, I build apps, experiment with AI-enabled products, and document what I learn through content.
+<p align="center">
+  <a href="https://github.com/samueluy">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=samueluy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  </a>
+  <a href="https://github.com/samueluy">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueluy&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-## What I work on
-- Data engineering and analytics pipelines
-- Workflow orchestration and backend automation
-- AI retrieval systems and search workflows
-- Product experiments across mobile, web, and creator tools
+## What I'm building around
+- **Data + AI systems** that actually perform in production
+- **Apps and experiments** across mobile, web, and automation
+- **Creator-driven tech content** around systems, tools, and growth
+- **Practical products** that can turn into leverage, income, or opportunity
 
-## Selected experience highlights
-- Reduced daily reporting work from **4 hours to 15 minutes** through automation
-- Built multi-channel data consolidation pipelines processing **500K+ transactions daily**
-- Improved reporting performance by **94%** through SQL and Power BI optimization
-- Refactored preprocessing pipelines with **Dask**, reducing runtime by **90%**
-- Built a production **RAG pipeline** handling **1,000+ daily queries** using **LangGraph, AWS Bedrock, PostgreSQL, and pgvector**
-- Implemented hybrid retrieval using **BM25 + vector search** for semantic candidate search
+## Career highlights
+- Automated reporting workflows, reducing manual work from **4 hours to 15 minutes**
+- Built data pipelines processing **500K+ transactions daily**
+- Improved analytics/reporting performance by **94%**
+- Refactored pipelines with **Dask**, reducing runtime by **90%**
+- Built a production **RAG system** handling **1,000+ daily queries**
+- Implemented **hybrid retrieval** using **BM25 + vector search**
 
 ## Deployed apps
-- **Mayi** — mobile travel utility launched on the App Store; reached **#1 in the Paid Travel category**
-- **Asenso** — financial simulation game designed and shipped for the App Store; reached **Top 5 in Paid Games**
+- **Mayi** — mobile travel utility launched on the App Store; reached **#1 in Paid Travel**
+- **Asenso** — financial simulation game launched on the App Store; reached **Top 5 in Paid Games**
 
-## Public projects
+## Public work
 - **[sql-basics-2025](https://github.com/samueluy/sql-basics-2025)** — companion repo for my SQL tutorial content
 
-## Certifications
-- Microsoft Certified: **Azure Data Engineer Associate (DP-203)**
-- Microsoft Certified: **Azure Data Analyst Associate (DP-700)**
-- **Apache Airflow 3 Fundamentals** — Astronomer
-- Informatica Cloud Data Integration Developer
-- Boomi Associate Integration Developer
-
-## Tools and technologies
-`Python` `SQL` `Azure` `ADF` `Synapse` `Airflow` `PostgreSQL` `pgvector` `Power BI` `Dask` `Docker` `Linux`
-
-## Also building outside work
-I’m also interested in:
-- AI-enabled apps
-- creator systems and educational content
-- offshore AI / data opportunities
-- shipping practical products people actually use
+## Toolbox
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ## Find me online
-- LinkedIn: https://www.linkedin.com/in/samueluy/
-- YouTube: https://youtube.com/samueluy
-- TikTok: https://www.tiktok.com/@samueluyyt
+- **Website:** https://samueluy.com
+- **YouTube:** https://youtube.com/samueluy
+- **TikTok:** https://www.tiktok.com/@samueluyyt
+- **LinkedIn:** https://www.linkedin.com/in/samueluy/
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samueluy&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%" />
+</p>
 
 ---
 
-> Strong in data systems, increasingly focused on AI workflows, and always trying to turn ideas into shipped products.
+> I like building useful things, turning ideas into shipped products, and making tech feel exciting through content.
