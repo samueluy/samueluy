@@ -10,6 +10,18 @@ Outside of work, I love making things that are useful, shippable, and interestin
 </p>
 
 <p align="center">
+  <a href="https://youtube.com/samueluy">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCAtm3wFZqwPkfalagHOWEbQ?style=for-the-badge&logo=youtube&label=YouTube%20Subscribers&color=ff0000" />
+  </a>
+  <a href="https://youtube.com/samueluy">
+    <img src="https://img.shields.io/youtube/channel/views/UCAtm3wFZqwPkfalagHOWEbQ?style=for-the-badge&logo=youtube&label=YouTube%20Views&color=cc0000" />
+  </a>
+  <a href="https://www.tiktok.com/@samueluyyt">
+    <img src="https://img.shields.io/badge/TikTok-184K%20followers-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/samueluy">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=samueluy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   </a>
