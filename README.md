@@ -21,15 +21,6 @@ Outside of work, I love making things that are useful, shippable, and interestin
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/samueluy">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=samueluy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  </a>
-  <a href="https://github.com/samueluy">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueluy&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 ## What I'm building around
 - **Data + AI systems** that actually perform in production
 - **Apps and experiments** across mobile, web, and automation
