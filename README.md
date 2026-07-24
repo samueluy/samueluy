@@ -18,10 +18,12 @@ My core background is in **Azure-based ETL, orchestration, SQL optimization, and
 - Built a production **RAG pipeline** handling **1,000+ daily queries** using **LangGraph, AWS Bedrock, PostgreSQL, and pgvector**
 - Implemented hybrid retrieval using **BM25 + vector search** for semantic candidate search
 
+## Deployed apps
+- **Mayi** — mobile travel utility launched on the App Store; reached **#1 in the Paid Travel category**
+- **Asenso** — financial simulation game designed and shipped for the App Store; reached **Top 5 in Paid Games**
+
 ## Public projects
 - **[sql-basics-2025](https://github.com/samueluy/sql-basics-2025)** — companion repo for my SQL tutorial content
-- **[PartitioningScript_Partman](https://github.com/samueluy/PartitioningScript_Partman)** — PostgreSQL partitioning utility
-- **[mimiyuuuH2O](https://github.com/samueluy/mimiyuuuH2O)** — a fun Discord reminder bot project
 
 ## Certifications
 - Microsoft Certified: **Azure Data Engineer Associate (DP-203)**
